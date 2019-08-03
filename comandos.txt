@@ -1,0 +1,10 @@
+// INSTALA O TYPESCRIPT NA MAQUINA
+npm install -g typescript
+
+// INICIA UM ARQUIVO DE JSON
+tsc -init
+
+// PARA ASSISTIR O .ts E TRANSFORMA-LO EM .js
+tsc -w
+
+// tsconfig.json  "outDir": e mandar o emulador para tal canto
